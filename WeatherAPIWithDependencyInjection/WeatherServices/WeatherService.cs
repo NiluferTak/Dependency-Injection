@@ -19,7 +19,7 @@ namespace WeatherAPIWithDependencyInjection.WeatherServiceInterface
 			
 		}
 
-		// Method to initialize _cities list asynchronously
+		
 
 
 		private void InitializeCities()
